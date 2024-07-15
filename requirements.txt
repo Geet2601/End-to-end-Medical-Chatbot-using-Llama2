@@ -1,0 +1,10 @@
+ctransformers
+langchain-community
+# update c transformer later if you want.
+sentence-transformers
+pinecone-client
+langchain
+flask
+pypdf
+python-dotenv
+-e .
